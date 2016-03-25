@@ -25,7 +25,7 @@ A joint collaboration between:
 
 
 ## Abstract
-Visual media are powerful means of expressing emotions and sentiments. The constant generation of new content in social networks highlights the need of automated visual sentiment analysis tools. While Convolutional Neural Networks (CNNs) have established a new state-of-the-art in several vision problems, their application to the task of sentiment analysis is mostly unexplored and there are few studies regarding how to design CNNs for this purpose. In this work, we study the suitability of fine-tuning a CNN for visual sentiment prediction as well as explore performance boosting techniques within this deep learning setting. Finally, we provide a deep-dive analysis into a benchmark, state-of-the-art network architecture to gain insight about how to design patterns for CNNs on the task of visual sentiment prediction.
+Visual media have become a crucial part of our social lives. The throughput of generated multimedia content, together with its richness for conveying sentiments and feelings, highlights the need of automated visual sentiment analysis tools. We explore how Convolutional Neural Networks (CNNs), a computational learning paradigm that has shown outstanding performance in several vision tasks, can be applied to the task of visual sentiment prediction by fine-tuning a state-of-the-art CNN. We analyze its architecture, studying several performance boosting techniques, which led to a network tuned to achieve a 6.1% absolute accuracy improvement over the previous state-of-the-art on a dataset of images from a popular social media platform. Finally, we present visualizations of local patterns that the network associates to each image's sentiment.
 
 
 ## Publication
