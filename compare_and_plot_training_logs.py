@@ -1,3 +1,6 @@
+# Based on code from https://www.kaggle.com/c/datasciencebowl/forums/t/12838/caffe-training-curves/90402
+
+
 import os
 import sys
 import numpy as np
