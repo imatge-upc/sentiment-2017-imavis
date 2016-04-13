@@ -33,7 +33,7 @@ Visual media have become a crucial part of our social lives. The throughput of g
 Please cite with the following Bibtex code:
 
 ````
-@article{campos2016pixels2sentiments,
+@article{campos2016from,
   title={From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction},
   author={Campos, Victor and Jou, Brendan and Giro-i-Nieto, Xavier},
   journal={arXiv preprint arXiv:1604.03489},
