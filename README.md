@@ -30,6 +30,9 @@ Visual media have become a crucial part of our social lives. The throughput of g
 
 ## Publication
 
+Our [preprint](http://arxiv.org/abs/1604.03489) is publicly available on arXiv. You can also find it indexed [on gitxiv](http://gitxiv.com/posts/ruqRgXdPTHJ77LDEb/from-pixels-to-sentiment-fine-tuning-cnns-for-visual).
+
+
 Please cite with the following Bibtex code:
 
 ````
@@ -45,7 +48,6 @@ You may also want to refer to our publication with the more human-friendly APA s
 
 *(not published yet)*
 
-A [preprint](http://arxiv.org/abs/1604.03489) of the paper is publicly available on arXiv.
 
 ## Sentiment Maps
 
