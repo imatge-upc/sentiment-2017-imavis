@@ -35,7 +35,7 @@ Please cite with the following Bibtex code:
 ````
 @article{campos2016pixels2sentiments,
   title={From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction},
-  author={Campos, Victor and Jou, Brendan and Giro-i-Nieto, Xavier },
+  author={Campos, Victor and Jou, Brendan and Giro-i-Nieto, Xavier},
   journal={arXiv preprint arXiv:1604.03489},
   year={2016}
 }
