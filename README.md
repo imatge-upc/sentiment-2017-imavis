@@ -33,14 +33,23 @@ Visual media have become a crucial part of our social lives. The throughput of g
 Please cite with the following Bibtex code:
 
 ````
-(not published yet)
+@article{campos2016pixels2sentiments,
+  title={From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction},
+  author={Campos, Victor and Jou, Brendan and Giro-i-Nieto, Xavier },
+  journal={arXiv preprint arXiv:1604.03489},
+  year={2016}
+}
 ```
 
 You may also want to refer to our publication with the more human-friendly APA style:
 
 *(not published yet)*
 
-A [preprint](#) of the paper is publicly available on arXiv.
+A [preprint](http://arxiv.org/abs/1604.03489) of the paper is publicly available on arXiv.
+
+## Sentiment Maps
+
+![Sentiment maps](./figures/SentimentMaps.png)
 
 ## Models
 
