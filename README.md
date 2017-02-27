@@ -46,7 +46,7 @@ Please cite with the following Bibtex code:
 
 You may also want to refer to our publication with the more human-friendly APA style:
 
-*Campos, V., Jou, B., & Giro-i-Nieto, X. (2017, February). [From pixels to sentiment: Fine-tuning cnns for visual sentiment prediction](http://dx.doi.org/10.1016/j.imavis.2017.01.011). Image and Vision Computing.*
+*Campos, V., Jou, B., & Giro-i-Nieto, X. (2017, February). [From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction](http://dx.doi.org/10.1016/j.imavis.2017.01.011). Image and Vision Computing.*
 
 
 ## Sentiment Maps
