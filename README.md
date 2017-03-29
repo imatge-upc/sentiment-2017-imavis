@@ -2,7 +2,7 @@
 ## Image and Vision Computing
 
 | ![Víctor Campos][VictorCampos-photo]  | ![Brendan Jou][BrendanJou-photo] |  ![Xavier Giro-i-Nieto][XavierGiro-photo]  | 
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | [Víctor Campos](https://www.linkedin.com/in/victor-campos-camunez) | [Brendan Jou](http://www.ee.columbia.edu/~bjou/) |  [Xavier Giro-i-Nieto](https://imatge.upc.edu/web/people/xavier-giro) |
 
 
