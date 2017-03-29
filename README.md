@@ -35,7 +35,7 @@ Our [article](http://dx.doi.org/10.1016/j.imavis.2017.01.011) can be found on Sc
 
 Please cite with the following Bibtex code:
 
-````
+```
 @article{campos2017from,
   title={From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction},
   author={Campos, Victor and Jou, Brendan and Giro-i-Nieto, Xavier},
