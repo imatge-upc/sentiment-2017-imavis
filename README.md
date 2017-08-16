@@ -53,6 +53,11 @@ You may also want to refer to our publication with the more human-friendly APA s
 
 ![Sentiment maps](./figures/SentimentMaps.png)
 
+
+## Data
+
+The Twitter dataset used in our experiments can be downloaded from [here](http://www.cs.rochester.edu/u/qyou/DeepSent/deepsentiment.html).
+
 ## Models
 
 The weights for the best CNN model can be downloaded from [here](https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2017-imavis/twitter_finetuned_test4_iter_180.caffemodel) (217 MB). These same weights, modified to fit the fully convolutional architecture used to generate the sentiment maps, can be downloaded from [here](https://imatge.upc.edu/web/sites/default/files/projects/affective/public_html/2017-imavis/twitter_finetuned_test4_iter_180_conv.caffemodel) (217 MB).
