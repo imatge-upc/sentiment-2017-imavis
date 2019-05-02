@@ -64,6 +64,11 @@ The weights for the best CNN model can be downloaded from [here](https://imatge.
 
 The deep network was developed over [Caffe](http://caffe.berkeleyvision.org/) by [Berkeley Vision and Learning Center (BVLC)](http://bvlc.eecs.berkeley.edu/). You will need to follow [these instructions](http://caffe.berkeleyvision.org/installation.html) to install Caffe.
 
+## How to re-train the models ?
+
+We do not provide training code because we used Caffe's command line tool to train the models. Please see the [framework's website](http://caffe.berkeleyvision.org/) for more details on how to download pre-trained models and fine-tune them on your data. Besides the trained models that can be used for inference, our repo provides [text files](https://github.com/imatge-upc/sentiment-2017-imavis/tree/master/ground_truth) with (image_id, label) tuples for all cross-validation splits in the paper. These can be used to train the model, but you will need to download the dataset from the [project site](http://www.cs.rochester.edu/u/qyou/DeepSent/deepsentiment.html) first.
+
+
 
 ## Acknowledgments
 
