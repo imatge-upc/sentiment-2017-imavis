@@ -99,4 +99,4 @@ We would like to especially thank Albert Gil and Josep Pujal from our technical 
 
 ## Contact
 
-If you have any general doubt about our work or code which may be of interest for other researchers, please use the [public issues section](https://github.com/imatge-upc/sentiment-2016-imavis/issues) on this github repo. Alternatively, drop us an e-mail at <mailto:victor.campos@bsc.es>.
+If you have any general doubt about our work or code which may be of interest for other researchers, please use the [public issues section](https://github.com/imatge-upc/sentiment-2016-imavis/issues) on this github repo.
