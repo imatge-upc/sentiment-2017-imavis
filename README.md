@@ -56,7 +56,7 @@ You may also want to refer to our publication with the more human-friendly APA s
 
 ## Data
 
-The Twitter dataset used in our experiments can be downloaded from [here](http://www.cs.rochester.edu/u/qyou/DeepSent/deepsentiment.html).
+The Twitter dataset used in our experiments was originally available from [this URL](http://www.cs.rochester.edu/u/qyou/DeepSent/deepsentiment.html) from Rochester University.On September 2021, we noticed that it is no longer available, so we provide [this mirror](https://drive.google.com/file/d/1Jw6Bv8nFN3s4TFVMRcIfIC1Q3zOfwpib/view?usp=sharing) (57.4 MB).
 
 ## Models
 
